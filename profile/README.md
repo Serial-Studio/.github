@@ -1,26 +1,7 @@
-[Serial Studio](https://serial-studio.com) turns data from your hardware into a live
-dashboard. Connect an Arduino, ESP32, STM32, Raspberry Pi, Teensy, or anything else that
-speaks serial, Bluetooth, a network protocol, or an industrial bus; describe the data
-format once in a project file, and Serial Studio draws the plots, gauges, maps, and 3D
-views around it. Send commands back with buttons, sliders, and knobs, then record a
-session, replay it, or export it as a PDF. It replaces the stack of separate tools this
-work usually requires — a serial monitor and plotter, a real-time telemetry dashboard, a
-CSV or SQLite logger, a Modbus, CAN bus, or MQTT client — and runs on Windows, macOS,
-Linux, and Raspberry Pi, in rocketry, drones, motorsport, robotics, environmental
-monitoring, industrial automation, and university labs.
+[Serial Studio](https://serial-studio.com) turns data from your hardware into a live dashboard. Connect an Arduino, ESP32, STM32, Raspberry Pi, Teensy, or anything else that speaks serial, Bluetooth, a network protocol, or an industrial bus; describe the data format once in a project file, and Serial Studio draws the plots, gauges, maps, and 3D views around it. Send commands back with buttons, sliders, and knobs, then record a session, replay it, or export it as a PDF. It replaces the stack of separate tools this work usually requires: a serial monitor and plotter, a real-time telemetry dashboard, a CSV or SQLite logger, a Modbus, CAN bus, or MQTT client. It runs on Windows, macOS, Linux, and Raspberry Pi, in rocketry, drones, motorsport, robotics, environmental monitoring, industrial automation, and university labs.
 
-[Download the latest release](https://github.com/Serial-Studio/Serial-Studio/releases/latest),
-install it from [Flathub](https://flathub.org/apps/com.serial_studio.Serial-Studio) or with
-`brew install --cask serial-studio`, or
-[build it from source](https://github.com/Serial-Studio/Serial-Studio). The GPLv3 build is
-free and covers serial, Bluetooth LE, TCP/UDP, and 17 widgets;
-[Pro](https://serial-studio.com) adds MQTT, Modbus, CAN bus, USB, HID, audio, 3D and XY
-plots, output widgets, MDF4 and session recording, and the AI assistant. The
-[help center](https://serial-studio.com/help) has setup guides and troubleshooting,
-[discussions](https://github.com/Serial-Studio/Serial-Studio/discussions) are for questions
-and project showcases, and
-[issues](https://github.com/Serial-Studio/Serial-Studio/issues) are for bugs and feature
-requests. Contributions to both the GPL code and the commercial modules are welcome — see
-[CONTRIBUTING.md](https://github.com/Serial-Studio/Serial-Studio/blob/master/CONTRIBUTING.md).
-Serial Studio is built and maintained by one person, so buying a Pro license is what funds
-the work; [donations](https://www.paypal.com/donate?hosted_button_id=XN68J47QJKYDE) help too.
+[Download the latest release](https://github.com/Serial-Studio/Serial-Studio/releases/latest), install it from [Flathub](https://flathub.org/apps/com.serial_studio.Serial-Studio), or [build it from source](https://github.com/Serial-Studio/Serial-Studio). The GPLv3 build is free and covers serial, Bluetooth LE, TCP/UDP, and 17 widgets.
+
+[Pro](https://serial-studio.com) adds MQTT, Modbus, CAN bus, USB, HID, audio, 3D and XY plots, output widgets, MDF4 and session recording, and the AI assistant. The [help center](https://serial-studio.com/help) has setup guides and troubleshooting, [discussions](https://github.com/Serial-Studio/Serial-Studio/discussions) are for questions and project showcases, and [issues](https://github.com/Serial-Studio/Serial-Studio/issues) are for bugs and feature requests.
+
+Contributions to both the GPL code and the commercial modules are welcome. See [CONTRIBUTING.md](https://github.com/Serial-Studio/Serial-Studio/blob/master/CONTRIBUTING.md). Serial Studio is built and maintained by one person, so buying a Pro license is what funds the work; [donations](https://www.paypal.com/donate?hosted_button_id=XN68J47QJKYDE) help too.
